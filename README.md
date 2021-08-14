@@ -15,3 +15,9 @@ You can click the Preview link to take a look at your changes.
 ###tech Stack
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+
+## Social
+[![](https://img.shields.io/badge/-Kansas%20Gentry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kansasgentry/)](https://www.linkedin.com/in/kansasgentry/)
+
+
+
