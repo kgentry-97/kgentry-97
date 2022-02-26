@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kansas Gentrry
-- 👀 I’m interested in gaining more knowleadge in progrmaming
+- 👀 I’m interested in gaining more knowleadge in programming
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me ...
 
 <!---
