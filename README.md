@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kgentry-97&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kgentry-97&icon=0&color=4)](https://visitcount.itsvg.in)
+<!--- [![](https://visitcount.itsvg.in/api?id=kgentry-97&icon=0&color=4)](https://visitcount.itsvg.in) --->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kgentry-97&label=Profile%20views&color=0e75b6&style=flat" alt="kgentry-97" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
