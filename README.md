@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Kansas Gentry<br>- 👀 I’m interested in gaining more knowledge in programming<br>- 🌱 I’m currently learning java, spring<br>- 💞️ I’m looking to collaborate on not sure yet
+- 👋 Hi, I’m Kansas Gentry<br>- 👀 I’m interested in gaining more knowledge in programming<br>- 🌱 I’m currently learning java, spring, C++ <br>- 💞️ I’m looking to collaborate on 
 
 
 ## 🌐 Socials:
